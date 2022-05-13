@@ -1,15 +1,24 @@
 # Programação de Funcionalidades
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
+## Template 
 
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
+Reponsável: Khaio
 
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
+Status: Em Andamento (falta alguns Links)
 
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+Comentários: O template do nosso projeto é um template bem simples onde desenvolvemos um cabeçalho com links para: home, quem somos e login/cadastro.
+um corpo com 100% de largura onde colocaremos o contéudo de cada página dentro do mesmo e também um rodapé com mais 3 links para outras páginas sendo elas: 
+cadastre sua padaria, uma solução fornadas já e também um link para o fale conosco. Um template Simples pensado pra o usuário final !
+
+Screenshots:
+
+Cabeçalho:
+![cabeçalho](https://user-images.githubusercontent.com/93228579/168296720-9997b5dd-d826-4541-b77e-434ba4f4e74f.JPG)
+
+
+Rodapé:
+![rodapé](https://user-images.githubusercontent.com/93228579/168296738-12ef61c0-9de6-4cb4-85e9-26dab3360ba1.JPG)
+
+video parte 1 : https://youtu.be/YwFBHI52fs8
+
+restante do video 1 : https://youtu.be/nXeGWspDnik
