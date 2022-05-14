@@ -1,23 +1,19 @@
-# TÍTULO DO PROJETO
-
-`CURSO`
-
-`DISCIPLINA`
-
-`SEMESTRE`
-
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
-
+<b>FORNADA<br>
+Análise e Desenvolvimento de Sistemas<br>
+Projeto<br>
+1°semestre/2022<br><br></b>
+Uma solução web para aproximar os clientes e as padarias em um período pós pandemia cuja tecnologia e sistemas delivery cresceram e apresentam tendência de permanecer de tal modo que o perfil do consumidor tenha mudado de maneira praticamente permanente.
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+Arthur Emanoel Coelho De Paula<br>
+Khaio Henrique De Oliveira Camargos<br>
+Leonardo Xavier<br>
+Lucas Damasceno Pinto<br>
+Matheus Henrique Nazar Girão<br>
+Patrícia Bento Gonçalves<br>
 
 ## Orientador
-
-* Nome completo do professor 1
+Will Ricardo dos Santos Machado
 
 ## Instruções de utilização
 
