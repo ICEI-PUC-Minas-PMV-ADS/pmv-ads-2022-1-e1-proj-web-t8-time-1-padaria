@@ -37,31 +37,27 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|RF-001| O site deve apresentar na página principal informações sobre como funciona o serviço                   | ALTA  | 
+|RF-002| O site deve apresentar, para cada produto, uma imagem correspondente ao mesmo (thumbnail)              | MÉDIA |
+|RF-003| O site deve conter um perfil para cada padaria contendo informações sobre a mesma                      | ALTA  |
+|RF-004| O site deve conter uma barra para pesquisa de produtos                                                 | ALTA  |
+|RF-005| O site deve permitir ao usuário visualizar a disponibilidade do produto em tempo real                  | BAIXA |
+|RF-006| O site deve conter um sistema de pagamentos                                                            | ALTA  | 
+|RF-007| O site deve notificar sobre novidades                                                                  | BAIXA | 
+|RF-008| O site deve informar o horário de fornadas de pão para cada padaria                                    | BAIXA |
+|RF-009| O site deve exibir a avaliação média de cada padaria                                                   | BAIXA | 
+|RF-010| O site deve ter uma página para que os donos de padarias possam cadastrar seus produtos e empresas     | ALTA  | 
+|RF-011| O site deve ter um espaço para cadastro dos clientes, posteriormente permitindo um login               | MÉDIA |
+|RF-012| O site deve ter uma página para gerenciamento do sistema interno de Delivery (ordem dos pedidos, horário das entregas, aprovação do pedido etc.)   | ALTA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF-001| O site deve ser hospedado em uma hospedagem de qualidade                                                      | ALTA  | 
+|RNF-002| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada                        | ALTA  | 
+|RNF-003| O site deve ser leve e pontuar ao menos 50 pontos no PageSpeed Insights para mobile e desktop respectivamente | MÉDIA | 
+|RNF-004| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge)  | ALTA  |
 
 ## Restrições
 
@@ -69,12 +65,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|01| A primeira parte de apresentação do projeto deve ser entregue até a data de 03/04/2022. |
+|02| O Sistema deve ser implementado em Front End, usando HTML/CSS.|
+|03| Informações sobre valores de preços do produto devem ser dadas somente em moeda local (R$).|
+|04| Todas informações de horário devem estar alinhadas com o Horário de Brasília.| 
+|05| Informações de cadastro devem seguir a seguinte ordem e são necessários todos os dados. Nome completo do cliente, Rua, bairro, número da residência e telefone de contato.|  
+|06| Informações referentes a clientes cadastrados devem ser acessadas somente por usuários autenticados pelo sistema.|  
