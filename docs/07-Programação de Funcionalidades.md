@@ -22,3 +22,16 @@ Rodapé:
 video parte 1 : https://youtu.be/YwFBHI52fs8
 
 restante do video 1 : https://youtu.be/nXeGWspDnik
+
+## Quem Somos
+
+Responsável: Leonardo Xavier
+
+O página "Quem somos" é uma tela simples, descritiva, onde é dito o que se busca com essa solução web. Possui um resumo geral sobre o Fornada e, na parte inferior, um pouco mais de detalhamento para os donos de padaria sobre a intenção do projeto e o que pode ser feito através dele.
+A  página já conta com o template desenvido por outro integrante da equipe.
+
+Screenshots:
+![image](https://user-images.githubusercontent.com/103225086/168447091-4505c752-8b51-4435-beec-bafb61629910.png)
+
+Vídeo:
+https://www.youtube.com/watch?v=OnIWexRUIM4&t=4s
