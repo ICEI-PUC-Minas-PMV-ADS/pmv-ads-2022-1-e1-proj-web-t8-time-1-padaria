@@ -7,32 +7,31 @@
 ## Personas
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas nos quadros que se seguem:
-<br><br>
+<br>
 <li><b>João Gonçalves</b>: 62 anos, aposentado. Não possui aplicativos de banco. Curti a aposentadoria e aproveitar a família. Tem como frustração não morar perto dos netos. Gosta de pescaria e assistir televisão.
 <li><b>Carina Barreiros</b>: 30 anos, publicitária, funcionária de uma empresa de planos de saúde e seguros. Utiliza Facebook, Instagram e aplicativos de banco. Gosta de aproveitar a vida, assistir filmes e ir à lanchonetes. Tem como frustração não seguir dieta e ter pouco tempo disponível durante a semana.
 <li><b>Manuel Paulo</b>: Portuuês de 55 anos, dono de padaria, que veio para o Brasil aos 5 anos de idade e aprendeu o ofício com seu pai. Utiliza Facebook e aplicativos de banco. Tem como motivação dar uma boa qualidade de vida para sua família. Tem como frustração a constante redução do fluxo de clientes no pós-pandemia.
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários:
+ <br>
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`       |PARA ... `MOTIVO/VALOR`                        |
+|--------------------|------------------------------------------|-----------------------------------------------|
+|João Gonçalves      | Saber que horas saem as fornadas de pão  | Comprar pão quente para café da manhã e tarde |
+|João Gonçalves      | Receber alertas sobre novidades          | Experimentar novos quitutes                   |
+|João Gonçalves      | Saber se uma nova padaria é boa          | Para consumir um bom produto                  |
+|Carina Barreiros    | Receber produtos em casa                 | Para não sair de casa para buscar             |
+|Carina Barreiros    | Comprar itens que faltam                 | Para terminar uma receita em andamento        |
+|Carina Barreiros    | Saber se há outras padarias na região    | Para ter mais opções de compra                |
+|Manuel Paulo        | Atrair clientes para sua padaria         | Aumentar o faturamento                        | 
+|Manuel Paulo        | Conhecer os clientes da padaria          | Para realizar ações de marketing estratégico  |
+|Manuel Paulo        | Ter um relatório das entregas do dia     | Para organizar o serviço de entregas          |
+ 
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
 
 ### Requisitos Funcionais
 
