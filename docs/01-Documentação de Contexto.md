@@ -23,25 +23,17 @@
 <P>A facilidade de compras sem sair de casa tem atraído cada vez mais os clientes que buscam comodidade e produtividade para o seu dia a dia.</P>
 <p>Conforme a Associação Brasileira da Indústria de Panificação e Confeitaria (ABIP), após o início da pandemia o fluxo de clientes teve grande redução.</p>
  ![image](https://user-images.githubusercontent.com/103225086/168445670-381fb8eb-0625-4749-9335-27431646e0f0.png)
- Figura 01: Evolução do ticket médio e o número de clientes. Fonte: ABIP, 2020.
+ <br>Figura 01: Evolução do ticket médio e o número de clientes. Fonte: ABIP, 2020.
 <p>Como visto na figura 01, o tíquete médio não acompanhou a queda do fluxo de clientes. Um dos motivos foi a revenda de produtos, impulsionados pela oportunidade de comprar o pão e outros produtos de uma só vez.</p>
  ![image](https://user-images.githubusercontent.com/103225086/168445707-0fa22009-9ca1-4da2-97c9-78917cd24f63.png)
-Figura 02: Faturamento médio das panificadoras. Fonte: ABIP, 2020.
+<br>Figura 02: Faturamento médio das panificadoras. Fonte: ABIP, 2020.
 <p>Um estudo realizado pelo Sebrae mostra que o mercado possui aproximadamente 25% de clientes que não são fiéis às padarias, e que este número tende a aumentar à medida que o desenvolvimento tecnológico avança. </p>
  ![image](https://user-images.githubusercontent.com/103225086/168445717-c354ee5c-f5ff-450a-bc6c-988538e42f7e.png)
-Figura 03: Perfil dos clientes de padaria. Fonte: Sebrae, 2020
+<br>Figura 03: Perfil dos clientes de padaria. Fonte: Sebrae, 2020
  <p>As vendas diretas, ou delivery, são uma tendência para os próximos anos (Sebrae, 2020), acompanhando o crescimento desse nicho devido a implementação dessa modalidade de serviço nos supermercados e hipermercados.  </p>
+ <p>A partir dos dados de fluxo de pessoas em padarias, perfil de faturamento e quantidade de clientes não fiéis ou muito fiéis disponíveis no mercado, tem-se que esses estabelecimentos devem expor seus produtos (próprios e revenda) de maneira que o cliente possa vê-los sem a necessidade de ir ao local, além de oferecer facilidades como delivery ou outras inovações como meio de fidelizar sua clientela e atrais a parcela que não possui uma preferência por estabelecimento.</p>
  
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+<p>O foco deste projeto é o desenvolvimento de uma solução web para as padarias que possuem interesse em sanar o problema da não recorrência de sua clientela, oferecendo facilidades aos clientes para que estes se fidelizem ao tal comércio. Desta forma, estabeleceu-se como público-alvo o consumidor de ambos os sexos, entre 25 e 60 anos de idade, e os donos de padaria de pequeno a grande porte, com projeção de aumento de faturamento, que precisam se adaptar ao novo padrão de consumo.</p>
