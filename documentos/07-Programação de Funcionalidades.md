@@ -66,7 +66,7 @@ Na pagina home foi utilizado um background color para realçar o texto descreven
   
   **********************************************************
   
-  Vídeo: 
+  Vídeo: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t8-time-1-padaria/blob/main/presentation/ScreenRecorderProject1.avi
   
   ![arthur](https://user-images.githubusercontent.com/100791586/168496746-49251676-a4a1-42cf-9b39-44dc596f4da9.PNG)
 
