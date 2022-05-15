@@ -1,0 +1,142 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{ 
+    background-image: url(fornadas.jpg);
+    background-size: 110%;
+}
+header { 
+    width: 100%;
+    background-color: #BE9E61;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+
+}
+.container-logo{
+    display: flex;
+    align-items: center;
+}
+.logo-imagem{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: white;
+}
+.logo-texto{
+    margin-left: 20px;
+    color: white;
+}
+
+.menu li{
+    display: inline-block;
+    margin: 0 10px;
+}
+.menu li a{
+    font-size: 24px;
+    font text-decoration: #c54134;
+    color: black;
+    padding: 15px 15px;
+}
+/*fim docabeçalho*/
+/* animaçao cabeçalho*/
+.menu li a:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 3px;
+    bottom: 0;
+    left: 0;
+    background-color: #c54134;
+    visibility: hidden;
+    -webkit-transform: scaleX(0);
+    transform: scaleX(0);
+    -webkit-transition: all 0.3s ease-in-out 0s;
+    transition: all 0.3s ease-in-out 0s;
+  }
+
+.menu li a:hover:before {
+    visibility: visible;
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+  }
+/*fim da animaçao*/
+
+  .menu li a{
+    position: relative;
+  color: #fff;
+  text-decoration-color: none; }
+
+/*rodape*/
+.rodape-da-pagina{
+    width: 100%;
+    background-color: #BE9E61;
+    display: flex; 
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0;
+}
+
+.rodape-da-pagina a{
+    font-size: 24px;
+    text-decoration: #c54134;
+    color: white;
+    padding: 15px 15px;
+}
+.rodape-da-pagina li{
+    display: inline-block;
+    margin: 0px 10px;
+}
+
+/*quadro de login*/
+h2{ 
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 72px;
+    color: #fff;
+}
+span {
+    margin-left: 50px;
+    font-size: small;
+}
+
+form{
+    margin: auto;
+    width: 500px;
+    height: ;
+    padding: 6em;
+    background-color: #BE9E61;
+    border-radius: 50px;
+    margin-bottom: 100px;
+}
+
+form div + div {
+    margin-top: 1em;
+}
+form .email:focus {
+    border-color: black;
+}
+.button{
+    padding-left: 110px;
+    margin-left: .5em;
+}
+.email input , .pass input {
+    width: 300px;
+    height: 40px;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 30px;
+}
+.button input{
+    width: 70px;
+    height: 30px;
+    border-radius: 10px;
+}
+.button input:hover{
+    background-color: cornsilk;
+    border-radius: 5px;
+}
