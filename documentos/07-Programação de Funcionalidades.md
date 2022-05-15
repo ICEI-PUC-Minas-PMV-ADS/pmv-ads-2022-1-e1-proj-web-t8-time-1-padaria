@@ -48,24 +48,3 @@ Na pagina home foi utilizado um background color para realçar o texto descreven
   link do video: https://youtu.be/bhHNYlAY3GU
 
   
-  TELA- LOGIN 
-
- 
-
-Responsável- Arthur Coelho 
-
- 
-
- 
-
-Requisitos atendidos 
-
-RF-11 
-
-Artefatos da funcionalidade 
-
-Login.html 
-
-Css.css 
-
-Fornadas.jpg 
