@@ -35,3 +35,15 @@ Screenshots:
 
 Vídeo:
 https://www.youtube.com/watch?v=OnIWexRUIM4&t=4s
+
+
+
+##HOME 
+
+Responsavel: Lucas Damasceno
+Na pagina home foi utilizado um background color para realçar o texto descrevendo o projeto. Foi utilizado a tag <center> para que a pagina ficasse centralizada. Utilizado uma imagem de uso livre para decoração da pagina.
+  
+  ![captura-tela](https://user-images.githubusercontent.com/105467049/168451726-2392415f-5bb4-42b4-b914-f7a7abf189aa.jpg)
+  
+  link do video: https://youtu.be/bhHNYlAY3GU
+
