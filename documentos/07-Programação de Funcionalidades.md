@@ -55,8 +55,29 @@ Na pagina home foi utilizado um background color para realçar o texto descreven
   
   Essa tela exibe um formulário para preenchimento com os dados básicos do usuário e um campo para a mensagem, e um botão de Enviar.
   
-  
   Vídeo: https://youtu.be/sEhb0pAG3As
   
   ![print tela fale conosco](https://user-images.githubusercontent.com/100791586/168496183-4ddcc910-6833-4efb-9ebc-34158980ed3e.jpeg)
 
+  
+  ## Tela de Login
+  
+  Responsável: Arthur Coelho
+  
+  **********************************************************
+  
+  Vídeo: 
+  
+  ![arthur](https://user-images.githubusercontent.com/100791586/168496746-49251676-a4a1-42cf-9b39-44dc596f4da9.PNG)
+
+  
+  
+  ## Acompanhamento de pedido
+  
+  Responsável: Matheus Girão
+  
+  **********************************************************
+
+  Vídeo: https://youtu.be/O5dBfXX-uHc
+  
+  ![matheus](https://user-images.githubusercontent.com/100791586/168496764-7b6cbfc5-70b1-48b5-867d-cec2b094f8b2.PNG)
