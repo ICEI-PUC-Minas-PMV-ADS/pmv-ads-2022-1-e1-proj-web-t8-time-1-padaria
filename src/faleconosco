@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css.css">
+    <title>Fale conosco</title>
+    
+
+<body>
+    
+    <header> 
+        <!-- container logo  -->
+        <div class="container-logo">
+            <div class="logo-imagem"></div>
+            <div class="logo-texto">
+                <h1>FORNADAS</h1>
+            </div>         
+        </div>
+
+        <!-- menu -->
+
+        <div class="menu">
+            <ul>
+                <li><a href="home.html">Home</a></li>
+                <li><a href="#">Quem somos</a></li>
+                <li><a href="#">Login/Cadastro</a></li>
+            </ul>
+
+        </div>
+
+        
+    </header>
+    
+    <br>
+    <br>
+    <br>
+    <br>
+   
+<div id="conteudo">
+  
+    
+    <div class="box">
+
+        <form action="">
+            <fieldset>
+                <legend><b>Fale conosco</b></legend>
+                <br>
+                <div class="inputBox">
+                    <input type="text" name="nome" id="nome" class="inputUser" required><br>
+                    <label for="nome" class="labelInput">Nome completo</label>
+                    <br>
+                    <br>
+                </div>
+
+                <div class="inputBox">
+                    <input type="email" name="email" id="email" class="inputUser" required><br>
+                    <label for="email" class="labelInput">E-mail</label>
+                    <br>
+                    <br>
+                </div>
+
+                <div class="inputBox">
+                    <input type="tel" maxlength="11" minlength="10" name="telefone" id="telefone" class="inputUser" required pattern="\([0-9]{2}\) [0-9]{4,6}-[0-9]{3,4}$" /><br>
+                    <label for="telefone" class="labelInput">Celular (com DDD)</label>
+                    <br>
+                    <br>
+                
+
+                <p><b>Selecione uma opção:</b></p><br>
+
+                <input type="radio" name="tipo" id="elogio" value="elogio" required><item1> Elogio</item1><br><br>
+                <input type="radio" name="tipo" id="reclamacao" value="reclamacao"><item2> Reclamação</item2><br><br>
+                <input type="radio" name="tipo" id="outro" value="outro"><item3> Outro</item3><br><br><br><br>
+            </div>
+                
+                    <div class="inputBox">
+                        <textarea cols="1" rows="5" maxlength="200" minlength="1" name="texto" id="texto" class="inputUser" required></textarea><br>
+                        <label for="texto" class="labelInput"><b>Escreva sua mensagem:</b> (até 200 caracteres)</label>
+                        </div><br>
+
+                <br><br><br>
+                <div id="botao">
+                <input type="submit" name="botao" value="Enviar" class="botaoEnviar">
+            </div>
+</div>
+                
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+            </fieldset>
+        </form>
+    </div>
+</div>
+        <!--rodapé da página-->
+    <footer class="rodape-da-pagina">
+        <ul>
+            <li><a href="#">Cadastre sua Padaria!</a></li>
+            <li><a href="#">Uma solução Fornadas Já</a></li>
+            <li><a href="#">Fale Conosco</a></li>
+        </ul>
+    </footer>
+
+    
+    <body>
+        <div class="wrapper">
+          
+      
+          <div class="push"></div>
+        </div>
+        <footer class="footer"></footer>
+      </body>
+
+
+
+
+
+
+</body>
+</head>
+</html>
