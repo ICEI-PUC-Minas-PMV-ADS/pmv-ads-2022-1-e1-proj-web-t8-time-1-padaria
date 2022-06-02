@@ -15,12 +15,11 @@ var contato = [
         "email": "financeiro@fornada.com.br"
     }
 ]
-
 function exibirContatos(){
-    var textoHTML = '';
-    for(let x=0; x<contato.length; x++){
-        textoHTML += `${contato[x].nome + contato[x].Contato + contato[x].email} <br>`;
-    };
-    var tela = document.getElementById('fale');
-    tela.innerHTML = textoHTML;
+var textoHTML = '';
+        for(let x=0; x<contato.length; x++){
+            textoHTML += `${contato[x].nome + contato[x].Contato + contato[x].email} <br>`;
+        };
+        var tela = document.getElementById('fale'); 
+        tela.innerHTML = textoHTML;  
 }
