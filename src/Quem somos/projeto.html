@@ -8,18 +8,11 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <title>Padaria</title>
-    <link rel="stylesheet" href="css2.css">
-    <script src="faleconosco.js"></script>
+    <link rel="stylesheet" href="css.css">
     
-    <script type="text/Javascript">
-      function exibirContatos(){
-        var textoHTML = '';
-        for(let x=0; x<contato.length; x++){
-          textoHTML += `${contato[x].nome + contato[x].Contato + contato[x].email} <br>`;
-        };
-        var tela = document.getElementById('fale'); 
-        tela.innerHTML = textoHTML;       
-      }
+    <!-- JavaScript -->
+    <script src="faleconosco.js" type="text/Javascript">
+      function exibirContatos()
     </script>
 
   </head>
