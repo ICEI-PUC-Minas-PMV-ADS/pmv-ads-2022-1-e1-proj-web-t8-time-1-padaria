@@ -21,8 +21,11 @@ Comente sobre as ferramentas de testes utilizadas.
 <b> QUEM SOMOS NÓS </b>
 
 A página Quem Somos Nós é uma página estática que explica os objetivos da solução web e o que esta solução tem a oferecer para os clientes. Além disso, tem botões no rodapé para encaminhar o cliente à página de casdastro da padaria, padarias participantes e um fale conosco.
-O testes a serem realizados devem atender os seguintes requisitos: 
+O testes a serem realizados devem mostrar o atendimento aos seguintes requisitos: 
 
 |ID      | Descrição do Requisito  |Prioridade |<br>
 |RNF-002| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada |   ALTA  | <br>
 |RNF-004| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge)  | ALTA  |<br>
+
+Para o RNF-002, o teste será feito alterando as proporções de tela do computador e através das ferramentas de desenvolvedor que o navegador oferece. O requesito será atendido se todos os textos e imagens se adequarem para as novas proporções, sem se sobrescrever ou distorcer.
+Para o RNF-004, o teste será feito abrindo a página no Google Chrome, Firefox e Microsoft Edge. O requisito será atendido se a página se mantiver responsiva dentro desses navegadores, não houver diferença de uma visualização para outra e se as funcionalidades, como o botão "Fale Conosco", estiverem funcionando da mesma maneira.
