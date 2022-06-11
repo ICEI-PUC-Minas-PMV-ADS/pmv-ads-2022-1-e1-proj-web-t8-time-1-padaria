@@ -29,3 +29,15 @@ O testes a serem realizados devem mostrar o atendimento aos seguintes requisitos
 
 Para o RNF-002, o teste será feito alterando as proporções de tela do computador e através das ferramentas de desenvolvedor que o navegador oferece. O requesito será atendido se todos os textos e imagens se adequarem para as novas proporções, sem se sobrescrever ou distorcer.
 Para o RNF-004, o teste será feito abrindo a página no Google Chrome, Firefox e Microsoft Edge. O requisito será atendido se a página se mantiver responsiva dentro desses navegadores, não houver diferença de uma visualização para outra e se as funcionalidades, como o botão "Fale Conosco", estiverem funcionando da mesma maneira.
+
+
+<b> PÁGINA DE CA DA PADARIA </b>
+
+|ID      | Descrição do Requisito  |Prioridade |
+|RF-03   |O site deve conter um perfil para cada padaria contendo informações sobre a mesma | alta
+
+Para o RF-03 o teste será feito verificando se o botão do Whatsapp leva para contato diretamente com a padaria. O link será aberto em uma nova aba do navegador ou aplicativo do Whatsapp (caso a pessoa tenha instalado em seu dispositivo).O requisito será atendido se não ocorrer nenhum tipo de erro durante o redirecionamento para o Whatsapp
+
+
+
+
