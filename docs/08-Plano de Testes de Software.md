@@ -31,7 +31,7 @@ Para o RNF-002, o teste será feito alterando as proporções de tela do computa
 Para o RNF-004, o teste será feito abrindo a página no Google Chrome, Firefox e Microsoft Edge. O requisito será atendido se a página se mantiver responsiva dentro desses navegadores, não houver diferença de uma visualização para outra e se as funcionalidades, como o botão "Fale Conosco", estiverem funcionando da mesma maneira.
 
 
-<b> PÁGINA DE CA DA PADARIA </b>
+<b> PÁGINA DE CADA PADARIA </b>
 
 |ID      | Descrição do Requisito  |Prioridade |
 |RF-03   |O site deve conter um perfil para cada padaria contendo informações sobre a mesma | alta
