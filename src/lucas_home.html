@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HOME</title>
+    <link rel="stylesheet" href="lucas_home.css">
+</head>
+<body>
+    <header> 
+        <!-- container logo  -->
+        <div class="container-logo">
+            <div class="logo-imagem"></div>
+            <div class="logo-texto">
+                <h1>FORNADAS</h1>
+            </div>         
+        </div>
+
+        <!-- menu -->
+
+        <div class="menu">
+            <ul>
+                <li><a href="lucas_home.html">Home</a></li>
+                <li><a href="#">Quem somos</a></li>
+                <li><a href="#">Login/Cadastro</a></li>
+            </ul>
+
+        </div>
+    </header>
+        <!-- html Lucas -->
+        <div class="content">
+            <div class="slides">
+                <input type="radio" name="slide" id="slide1">
+                <input type="radio" name="slide" id="slide2">
+                <input type="radio" name="slide" id="slide3">
+                <input type="radio" name="slide" id="slide4">
+                <input type="radio" name="slide" id="slide5">
+    
+                <div class="slide s1">
+                    <img src="https://images.unsplash.com/photo-1587241321921-91a834d6d191?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGJha2VyeXxlbnwwfHwwfHw%3D&w=1000&q=80">
+                </div>
+    
+                <div class="slide">
+                    <img src="https://media-cdn.tripadvisor.com/media/photo-s/17/54/89/b5/photo1jpg.jpg">
+                </div>
+    
+                <div class="slide">
+                    <img src="https://www.marketofchoice.com/wp-content/uploads/2021/08/Bakery-Miriam-1200X925.jpg">
+                </div>
+    
+                <div class="slide">
+                    <img src="https://www.pigprogress.net/app/uploads/2022/05/IMG_Bakeryproducts-848x565.jpg">
+                </div>
+            
+                <div class="slide">
+                    <img src="https://cate.prefeitura.sp.gov.br/wp-content/uploads/2021/07/Banner_sumario-1.jpg">
+                </div>
+           
+                <div class="navigation">
+                    <label class="bar" for="slide1"></label>
+                    <label class="bar" for="slide2"></label>
+                    <label class="bar" for="slide3"></label>
+                    <label class="bar" for="slide4"></label>
+                    <label class="bar" for="slide5"></label>
+                </div>
+            </div>
+        </div>
+            
+            <div id="link">
+                   <a href="#" id="end" onclick="end()"> ENDERECO </a>
+          </div>
+
+
+    
+        <!-- Fim html Lucas -->
+        <footer class="rodape-da-pagina">
+            
+            <ul>
+                <li><a href="#">Cadastre sua Padaria!</a></li>
+                <li><a href="#">Uma solução Fornadas Já</a></li>
+                <li><a href="#">Fale Conosco</a></li>
+            </ul>
+        </footer>      
+       
+        <script>
+            function end(){
+                let end1 = {
+                    rua: 'Rua A',
+                    numero: '00',
+                    bairro: 'ABC',
+                    cidade: 'BH',
+                    estado: 'MG',
+                    pais: 'Brasil'
+                };
+                let end = end1
+                link.innerHTML = `${end1.rua} - Nº: ${end1.numero},Bairro: ${end1.bairro}, Cidade: ${end1.cidade},Estado: ${end1.estado}, Pais: ${end1.pais} `;   
+   }
+       </script>
+</body>
+</html>
