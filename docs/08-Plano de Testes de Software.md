@@ -47,8 +47,8 @@ RF-11 |O site deve ter um espaço para cadastro dos clientes, posteriormente per
  
  <b> Caso de teste pagina home </b>
 
-RNF01 - A pagina deve conter um slide com imagens referentes a padaria 
-RNF01 - A pagina deve conter um link que informa endereco da empresa 
+RNF01 - A pagina deve conter um slide com imagens referentes a padaria  <br>
+RNF02 - A pagina deve conter um link que informa endereco da empresa 
 
 Objetivo do teste:  Verificar se a pagina esta aparecendo corretamente 
 
