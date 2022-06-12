@@ -39,5 +39,10 @@ Para o RNF-004, o teste será feito abrindo a página no Google Chrome, Firefox 
 Para o RF-03 o teste será feito verificando se o botão do Whatsapp leva para contato diretamente com a padaria. O link será aberto em uma nova aba do navegador ou aplicativo do Whatsapp (caso a pessoa tenha instalado em seu dispositivo).O requisito será atendido se não ocorrer nenhum tipo de erro durante o redirecionamento para o Whatsapp
 
 
+<b> PÁGINA DE LOGIN </b>
+|ID   | Descrição do Requisito |Prioridade |
+RF-11 |O site deve ter um espaço para cadastro dos clientes, posteriormente permitindo um login |Média 
+
+ Para o RF-11 O teste será feito testando um login e senha que estará contido em um arquivo JSON se o login e senha for confirmado sem nenhum tipo de erro o requisito será atendido.
 
 
