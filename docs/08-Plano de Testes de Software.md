@@ -44,5 +44,19 @@ Para o RF-03 o teste será feito verificando se o botão do Whatsapp leva para c
 RF-11 |O site deve ter um espaço para cadastro dos clientes, posteriormente permitindo um login |Média 
 
  Para o RF-11 O teste será feito testando um login e senha que estará contido em um arquivo JSON se o login e senha for confirmado sem nenhum tipo de erro o requisito será atendido.
+ 
+ Caso de teste pagina home 
+
+RNF01 - A pagina deve conter um slide com imagens referentes a padaria 
+RNF01 - A pagina deve conter um link que informa endereco da empresa 
+
+Objetivo do teste:  Verificar se a pagina esta aparecendo corretamente 
+
+Passos: Acessar a pagina 
+               Clicar no slide de fotos
+               clicar no link endereco 
+
+Criterios de exito: As fotos devem mudar ao serem clicadas no slide
+                                Ao clicar no link endereco deve aparecer o endereço da empresa
 
 
