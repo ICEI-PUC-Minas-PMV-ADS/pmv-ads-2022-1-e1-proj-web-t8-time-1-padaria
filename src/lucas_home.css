@@ -3,8 +3,9 @@ body{
     padding: 0;
     height: 100vh;
     width: 100vw;
-    background: #db0000;
-
+    background: #ffffff;
+    background-image: url(fornadas.jpg);
+    background-size: cover;
 }
 
 .content{
@@ -115,7 +116,7 @@ header{
     height: 3px;
     bottom: 0;
     left: 0;
-    background-color: #c54134;
+    background-color: rgb(236, 72, 80);
     visibility: hidden;
     -webkit-transform: scaleX(0);
     transform: scaleX(0);
@@ -140,12 +141,7 @@ header{
     /* Rodapé da página */
 
     .rodape-da-pagina{
-        width: 100%;
         background-color: #BE9E61;
-        display: flex; 
-        justify-content: space-around;
-        align-items: center;
-        padding: 32% 0;
     }
     
     .rodape-da-pagina a{
@@ -158,12 +154,25 @@ header{
         display: inline-block;
         margin: 0 10px;
     }
+
+    /*fixar rodape da pagina*/
+    .rodape-da-pagina{
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        background-color: #BE9E61;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding: 20px 0;
+    }
+
         
 /* Conteúdo da Página */
 
 
 #link {
-    background-color: #f7f1a9;
     text-align: center;
     font-size: 30px;
     
@@ -173,11 +182,10 @@ header{
     display: inline-block;
     margin-top: 20px;
     padding: 8px 20px;
-    background: rgb(13, 236, 124);
-    color:rgb(14, 8, 8);
+    background: rgb(236, 72, 80);
+    color:rgb(243, 243, 243);
     border-radius: 40px;
     font-weight: 500;
     letter-spacing: 1px;
     text-decoration: none;
-
 }
