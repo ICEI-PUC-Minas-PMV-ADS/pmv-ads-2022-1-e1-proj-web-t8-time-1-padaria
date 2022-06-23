@@ -1,0 +1,45 @@
+.card-img{
+    width: 100%;
+    height: 320px;
+}
+
+.card-img-overlay{
+    text-align:right;
+    display: -moz-box;
+    margin-left: 60%;
+    margin-top: 3%;
+    color: white;
+}
+
+.navbar a:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 3px;
+    bottom: 0;
+    left: 0;
+    background-color: #c54134;
+    visibility: hidden;
+    -webkit-transform: scaleX(0);
+    transform: scaleX(0);
+    -webkit-transition: all 0.3s ease-in-out 0s;
+    transition: all 0.3s ease-in-out 0s;
+  }
+
+.navbar a:hover:before {
+    visibility: visible;
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+  }
+
+.navbar a{
+    position: relative;
+  color: #fff;
+  text-decoration-color: none; 
+}
+
+.card{
+    background-color: lightgray;
+    font-style: italic;
+    text-align: center;
+}
