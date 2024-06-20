@@ -1,0 +1,24 @@
+message: Please cite this software using these metadata.
+title: Fornada
+authors:
+  - family-names: Emanoel Coelho De Paula
+    given-names:  Arthur
+  - family-names: Henrique De Oliveira Camargos
+    given-names: Khaio 
+  - family-names: Xavier
+    given-names: Leonardo 
+  - family-names: Damasceno Pinto
+    given-names: Lucas 
+  - family-names: Henrique Nazar Girão
+    given-names: Matheus 
+  - family-names: Bento Gonçalves
+    given-names: Patrícia 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Ricardo dos Santos Machado
+    given-names: Will 
+keywords:
+  - Padaria
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t8-time-1-padaria
+version: 1.0.0
+date-released: 2021-06-30
