@@ -1,0 +1,26 @@
+Please cite this software using these metadata.
+title: Padaria
+authors:
+  - family-names: Coelho De Paula
+    given-names: Arthur Emanoel
+  - family-names: De Oliveira Camargos
+    given-names: Khaio Henrique
+  - family-names: Xavier
+    given-names: Leonardo
+  - family-names: Damasceno Pinto
+    given-names: Lucas
+  - family-names: Nazar Girão
+    given-names: Matheus Henrique
+  - family-names: Bento Gonçalves
+    given-names: Patrícia
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Ricardo dos Santos Machado
+    given-names: Will
+keywords:
+  - Tecnologia
+  - Padaria
+  - Gerenciamento
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t8-time-1-padaria
+version: 1.0.0
+date-released: 2024-06-23
